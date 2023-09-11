@@ -1,0 +1,8 @@
+﻿  MoovingBalls_face.cpp
+D:\touchFish\OOP\OOP小学期作业\MoovingBalls.h(1,1): warning C4828: 文件包含在偏移 0x951 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  MoovingBalls_func.cpp
+D:\touchFish\OOP\OOP小学期作业\MoovingBalls.h(1,1): warning C4828: 文件包含在偏移 0x951 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  MoovingBalls_main.cpp
+D:\touchFish\OOP\OOP小学期作业\MoovingBalls.h(1,1): warning C4828: 文件包含在偏移 0x951 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  fiveBallGame.vcxproj -> D:\proj_workplace\fiveBallGame\fiveBallGame\x64\Debug\fiveBallGame.exe
